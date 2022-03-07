@@ -1,0 +1,128 @@
+[Root]
+Most Recent Package=Paquete Consulta Det
+
+
+[Package|Paquete Consulta Det|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\copia_Sistemas\ConsultaDet\Paquete
+
+[Package|Paquete Consulta Det|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete Consulta Det|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete Consulta Det|Files Found]
+
+[Package|Paquete Consulta Det|Files Released]
+
+[Package|Paquete Consulta Det|Missing Dependency Information]
+C:\Program Files\Common Files\System\ado\msado26.tlb=
+
+[Package|Paquete Consulta Det|Out-of-Date Dependency Information]
+C:\Windows\System32\MSCOMCTL.OCX=
+
+[Package|Paquete Consulta Det|Files Added]
+
+[Package|Paquete Consulta Det|Files Removed]
+
+[Package|Paquete Consulta Det|Files In Project]
+C:\copia_Sistemas\ConsultaDet\consultaDet.exe=Yes
+C:\Windows\System32\msvbvm60.dll=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Windows\System32\VB6ES.DLL=Yes
+C:\Program Files\Common Files\System\ado\msado26.tlb=Yes
+C:\Windows\System32\MSBIND.DLL=Yes
+C:\Windows\System32\MSSTDFMT.DLL=Yes
+C:\Windows\System32\stdftes.dll=Yes
+C:\Windows\System32\DBLIST32.OCX=Yes
+C:\Windows\System32\DBLSTES.DLL=Yes
+C:\Windows\System32\MSDATGRD.OCX=Yes
+C:\Windows\System32\DATGDES.DLL=Yes
+C:\Windows\System32\COMDLG32.OCX=Yes
+C:\Windows\System32\CMDLGES.DLL=Yes
+C:\Windows\System32\MSADODC.OCX=Yes
+C:\Windows\System32\ADODCES.DLL=Yes
+C:\Windows\System32\MSDATLST.OCX=Yes
+C:\Windows\System32\DATLSES.DLL=Yes
+C:\Windows\System32\comct232.ocx=Yes
+C:\Windows\System32\CMCT2ES.DLL=Yes
+C:\Windows\System32\MSCOMCTL.OCX=Yes
+C:\Windows\System32\MSCMCES.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Windows\System32\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Paquete Consulta Det|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete Consulta Det|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete Consulta Det|Install Locations]
+C:\copia_Sistemas\ConsultaDet\consultaDet.exe=$(AppPath)
+C:\Windows\System32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\Windows\System32\VB6ES.DLL=$(WinSysPath)
+C:\Program Files\Common Files\System\ado\msado26.tlb=$(WinSysPath)
+C:\Windows\System32\MSBIND.DLL=$(WinSysPath)
+C:\Windows\System32\MSSTDFMT.DLL=$(WinSysPath)
+C:\Windows\System32\stdftes.dll=$(WinSysPath)
+C:\Windows\System32\DBLIST32.OCX=$(WinSysPath)
+C:\Windows\System32\DBLSTES.DLL=$(WinSysPath)
+C:\Windows\System32\MSDATGRD.OCX=$(WinSysPath)
+C:\Windows\System32\DATGDES.DLL=$(WinSysPath)
+C:\Windows\System32\COMDLG32.OCX=$(WinSysPath)
+C:\Windows\System32\CMDLGES.DLL=$(WinSysPath)
+C:\Windows\System32\MSADODC.OCX=$(WinSysPath)
+C:\Windows\System32\ADODCES.DLL=$(WinSysPath)
+C:\Windows\System32\MSDATLST.OCX=$(WinSysPath)
+C:\Windows\System32\DATLSES.DLL=$(WinSysPath)
+C:\Windows\System32\comct232.ocx=$(WinSysPath)
+C:\Windows\System32\CMCT2ES.DLL=$(WinSysPath)
+C:\Windows\System32\MSCOMCTL.OCX=$(WinSysPath)
+C:\Windows\System32\MSCMCES.DLL=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\Windows\System32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Paquete Consulta Det|Configure Shared Files]
+Applicable=Yes
+C:\copia_Sistemas\ConsultaDet\consultaDet.exe=No
+
+[Package|Paquete Consulta Det|Distribution]
+Type=single
+Size=
+Title=Consulta DET
+
+[Package|Paquete Consulta Det|IconGroups]
+Group0=Consulta DET
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Paquete Consulta Det|Consulta DET]
+Icon1=consultaDet.exe
+Title1=Consulta DET
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete Consulta Det|Package]
+PackageFolder=C:\copia_Sistemas\ConsultaDet\Paquete
+ProjectFolder=C:\copia_Sistemas\ConsultaDet
+ServerSideCab=
+File1=C:\copia_Sistemas\ConsultaDet\Paquete\setup.exe
+File2=C:\copia_Sistemas\ConsultaDet\Paquete\Setup.Lst
+File3=C:\copia_Sistemas\ConsultaDet\Paquete\consultaDet.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
